@@ -1,0 +1,20 @@
+.contenedor {
+    display: flex;
+}
+
+.cuadrado {
+    width: 150px;
+    height: 150px;
+}
+
+.azul {
+    background-color: blue;
+}
+
+.rojo {
+    background-color: red;
+}
+
+.negro {
+    background-color: black;
+}
